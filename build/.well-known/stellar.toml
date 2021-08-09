@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GDERYRDAOITUY44PABGDBFUPYV4DDMYQZ5O3XX4FGBYIVOCN5NRXACXJ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="Stellarity"
+ORG_URL="https://www.stellarity.org"
+ORG_DESCRIPTION="In Stellar We Trust"
+ORG_TWITTER="@Stellarity_"
+ORG_LOGO="https://i.ibb.co/fkDv0cT/stellarity.png"
+ORG_OFFICIAL_EMAIL="stellarityorg@gmail.com"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="XLS"
+issuer="GDERYRDAOITUY44PABGDBFUPYV4DDMYQZ5O3XX4FGBYIVOCN5NRXACXJ"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+name="Stellarity"
+desc="Stellarity is a decentralized, global new cryptocurrency with qualified crypto trading groups that allows you to transfer currency with a stellar-based wallet with almost non-existent fees. Learn more about Stellarity at https://stellarity.org/"
+conditions="There will only ever be 10 million XLS tokens in existence"
+image="https://i.ibb.co/fkDv0cT/stellarity.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+#XLS was issued using the open and inclusive Stellar blockchain network.
